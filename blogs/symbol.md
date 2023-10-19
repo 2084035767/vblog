@@ -1,6 +1,6 @@
 ---
 title: 关于| 半角和全角符号
-date: 2022-06-06
+date: 2022-6-6
 categories: 
   - 知识科普
 tags: 
