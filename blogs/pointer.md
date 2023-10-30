@@ -1,6 +1,6 @@
 ---
-title: 关于| C 语言的指针
-date: 2023-10-11
+title: 胡说| C 语言的指针
+date: 2023-10-30
 categories:
   - 编程知识
 tags:

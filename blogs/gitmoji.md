@@ -8,25 +8,28 @@ tags:
   - Emoji
 ---
 
-::: warning
+::: tip 前言
 
-根据[gitmoji 中文网](https://neko.ayaka.moe/gitmoji/) 编写。！注意：「该站 66 个，官网 73 个」
+最近查看别人仓库，看见别人的”commit“竟然有表情？那我得查查。
 
 :::
 
 
 
-> 说明：因为 gitmoji 作者暂时没有 i18n 的打算，所以 gitmoji 中文网站都是 fork gitmoji 项目更新。由于没有中文官网，我在 gitmoji 项目的 issue 中选取了最近的一个中文站点。
-
-### 使用方法
+## Gitmoji 使用方法
 
 Gitmoji 是一种通过使用表情符号来标记您的提交消息的方法，可以帮助您更清晰地描述您的工作。
 
-下面是如何使用 Gitmoji 的简要步骤：
+::: tip 说明
 
-1. 在您的本地计算机上安装 Gitmoji 插件或下载 Gitmoji 表情符号集。
-2. 写提交消息时，在消息开头使用一个 Gitmoji 表情符号来描述您的工作类型。例如，“`:bug:`修复了一个错误”或“`:sparkles:` 添加了新功能”。
-3. 按照惯例，在提交消息的开头加上一个大写字母的动词，以说明你所做的工作类型。例如，“Fix”、“Add”、“Update”、“Remove”等。
+因为 「gitmoji」 作者暂时没有 i18n 的打算，所以 「gitmoji」 中文网站都是fork项目更新。由于没有中文官网，我随机选取了最近的一个中文站点。
+
+:::
+
+### 简要步骤
+
+1. 在计算机上安装 Gitmoji 插件或下载 Gitmoji 表情符号集。vscode 有相关插件可使用。
+2. 写提交消息时，在消息开头使用一个 Gitmoji 表情符号来描述工作类型。例如，“`:bug:`修复了一个错误”或“`:sparkles:` 添加了新功能”。
 4. 编写有意义和易于理解的提交消息，以便任何人都可以轻松地理解您所做的更改。
 
 正确的格式应该是：
@@ -35,19 +38,17 @@ Gitmoji 是一种通过使用表情符号来标记您的提交消息的方法，
 git commit -m ":emoji: 描述"
 ```
 
-其中，`:emoji:` 是您所选择的 Gitmoji 表情符号，例如 `:bug:` 表示 Bug 错误，`sparkles:` 表示新增功能。 然后是一个空格，接着是描述您所做更改的简短、有意义的文字。
-
-所以，如果您想使用 Gitmoji 来标记您的提交消息，那么您应该使用像这样的命令来提交更改：
-
-```git
-git commit -m ":bug: Fix issue with user authentication"
-```
-
-这个命令将会把您的更改提交到本地的 Git 仓库，并且包含了您的提交消息。
+> 想必常用Git的同学明白了，其实就是代替了“commit”的规范提交。
 
 
 
-### Gitmoji表格
+## Gitmoji表格
+
+::: warning
+
+根据 [gitmoji 中文网](https://neko.ayaka.moe/gitmoji/) 编写 ，该站 66 个，官网 73 个。
+
+:::
 
 | Gitmoji                   | 代码                          | 含义                                                         |
 | ------------------------- | ----------------------------- | ------------------------------------------------------------ |
@@ -117,3 +118,10 @@ git commit -m ":bug: Fix issue with user authentication"
 | :hammer:                  | `:hammer:`                    | 添加或更新开发脚本（Add or update development scripts）      |
 | 🧪                         | `:test_tube:`                 | 添加一个失败的测试(Add a failing test)                       |
 
+> Gitmoji算是一个很有意思的项目，可以规范“commit”提交和明确描述，大家可以尝试一下。😉
+
+
+
+## 参考三三
+
+- [gitmoji 中文网](https://neko.ayaka.moe/gitmoji/)
