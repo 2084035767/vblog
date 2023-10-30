@@ -1,10 +1,7 @@
 import { defineUserConfig } from 'vuepress'
-
 import { recoTheme } from 'vuepress-theme-reco'
-
-import navbar from './config/navbar'
-
-import series from './config/series'
+import navbar from './navbar'
+import series from './series'
 
 export default defineUserConfig({
   lang: 'zh-CN',
