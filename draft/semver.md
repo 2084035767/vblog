@@ -1,10 +1,11 @@
 ---
-title: 胡说语义化版本
+title: 胡说| 语义化版本
 date: 2023-10-11
 categories:
-  - 知识科普
+  - 编程知识
 tags:
-  - Npm
+  - npm
+  - 版本
 publish: false
 ---
 

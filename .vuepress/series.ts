@@ -14,6 +14,7 @@ export default {
         { text: 'C', link: '/docs/c.md' },
         { text: 'Java', link: '/docs/java.md' },
         { text: 'Python', link: '/docs/python.md' },
+        { text: '数据库', link: '/docs/db.md' },
       ],
     },
   ],

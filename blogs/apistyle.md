@@ -23,20 +23,15 @@ API风格是指在设计和实现API时所采用的架构和规范，用于定�
 
 API（Application Programming Interface）风格类型主要有以下几种
 
-1. `REST（Representational State Transfer）`风格
-   REST是一种基于HTTP协议的软件架构风格，强调使用统一的接口进行资源的访问和操作。RESTful API使用HTTP动词（如GET、POST、PUT、DELETE）对资源进行操作，并使用URL来标识资源。
-
-2. `RPC（Remote Procedure Call）`风格
-   RPC是一种远程过程调用的通信协议，用于实现不同计算机之间的通信和数据传输。RPC风格的API允许客户端应用程序调用远程服务器上的方法，并获取返回结果。
-
-3. `GraphQL（Graph Query Language）`风格
-   GraphQL是一种用于API查询和操作的查询语言和运行时环境。它提供了一种灵活的方式来获取客户端需要的数据，并减少了网络传输的数据量。
-
-4. `SOAP（Simple Object Access Protocol）`风格
-   SOAP是一种基于XML的通信协议，用于在网络上进行远程过程调用。它定义了一组规范和标准，用于描述消息的结构和交互方式。
-
-5. `gRPC（Google Remote Procedure Call）`风格
-   gRPC是一种高性能、通用的远程过程调用框架，使用Protocol Buffers作为接口定义语言。它支持多种编程语言和平台，并提供了强大的功能，如双向流式传输和身份验证。
+1. `REST（Representational State Transfer）`风格：`REST`是一种基于HTTP协议的软件架构风格，强调使用统一的接口进行资源的访问和操作`RESTful API`使用HTTP动词（如GET、POST、PUT、DELETE）对资源进行操作，并使用URL来标识资源。
+   
+2. `RPC（Remote Procedure Call）`风格：`RPC`是一种远程过程调用的通信协议，用于实现不同计算机之间的通信和数据传输。RPC风格的API允许客户端应用程序调用远程服务器上的方法，并获取返回结果。
+   
+3. `GraphQL（Graph Query Language）`风格：`GraphQL`是一种用于API查询和操作的查询语言和运行时环境。它提供了一种灵活的方式来获取客户端需要的数据，并减少了网络传输的数据量。
+   
+4. `SOAP（Simple Object Access Protocol）`风格：`SOAP`是一种基于XML的通信协议，用于在网络上进行远程过程调用。它定义了一组规范和标准，用于描述消息的结构和交互方式。
+   
+5. `gRPC（Google Remote Procedure Call）`风格：`gRPC`是一种高性能、通用的远程过程调用框架，使用`Protocol Buffers`作为接口定义语言。它支持多种编程语言和平台，并提供了强大的功能，如双向流式传输和身份验证。
 
 > 最近看见了腾讯开源了`tRPC`，不知道咋样🤔。–2023.10.20
 

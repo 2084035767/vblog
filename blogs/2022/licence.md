@@ -1,6 +1,6 @@
 ---
 title: 关于| 开源协议
-date: 2022-7-12
+date: 2022-6-12
 categories: 
   - 知识科普
 tags: 

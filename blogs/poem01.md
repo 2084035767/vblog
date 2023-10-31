@@ -1,6 +1,6 @@
 ---
-title: 谈谈| 写过的诗
-date: 2023-10-16
+title: 谈谈| 两首小诗
+date: 2023-4-16
 categories: 
   - 随笔感想
 tags: 
