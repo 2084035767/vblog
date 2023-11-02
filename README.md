@@ -12,7 +12,6 @@ blog:
   socialLinks:
     - { icon: 'Email', link: '#' }
     - { icon: 'LogoWechat', link: '#' }
-    - { icon: 'LogoGithub', link: 'https://github.com/2084035767' }
 footer:
   startYear: 2021
 ---
