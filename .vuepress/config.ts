@@ -11,9 +11,9 @@ export default defineUserConfig({
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   theme: recoTheme({
     style: '@vuepress-reco/style-default',
-    logo: '/logo.png',
+    logo: '/logo.jpg',
     author: '子十',
-    authorAvatar: '/head.jpg',
+    authorAvatar: '/logo.jpg',
     lastUpdatedText: '最近更新',
     navbar,
     series,
