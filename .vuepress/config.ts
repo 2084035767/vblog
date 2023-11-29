@@ -17,5 +17,12 @@ export default defineUserConfig({
     lastUpdatedText: '最近更新',
     navbar,
     series,
+    friendshipLinks: [
+      {
+        title: 'recovuepress-reco',
+        logo: 'https://avatars.githubusercontent.com/u/54167020?s=200&v=4',
+        link: 'https://github.com/vuepress-reco',
+      },
+    ],
   }),
 })

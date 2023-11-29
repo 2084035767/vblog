@@ -1,12 +1,10 @@
 ---
-title: 关于| 《隐入尘烟》观后感
+title: 关于| 该穿啥衣服
 date: 2022-8-26
 categories:
-  - 随笔感想
+  - 知识科普
 tags:
-  - 电影
-  - 观后感
-publish: false
+  - 生活
 ---
 
 

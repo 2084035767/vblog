@@ -1,15 +1,15 @@
 ---
-title: 关于我的博客日志
+title: 胡说| NPX 使用
 date: 2023-10-11
 categories:
-  - 随笔
+  - 编程知识
 tags:
-  - 科普
-  - 博客
-publish: false
+  - NPM
 ---
 
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.ruanyifeng.com](https://www.ruanyifeng.com/blog/2019/02/npx.html)
+:::tip
+
+:::
 
 > npm 从 5.2 版开始，增加了 npx 命令。它有很多用处，本文介绍该命令的主要使用场景。
 

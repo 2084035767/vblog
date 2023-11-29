@@ -5,8 +5,9 @@ categories:
   - 编程知识
 tags:
   - BUG
-publish: false
 describe: 长期更新
 ---
 
+## Bug 简介
 
+### bug 历史

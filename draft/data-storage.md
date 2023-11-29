@@ -1,11 +1,10 @@
 ---
-title: 关于| 数据存储的方式
+title: 胡说| 数据存储的方式
 date: 2023-10-11
 categories:
   - 编程知识
 tags:
-  - 博客
-publish: false
+  - 计算机
 ---
 
 

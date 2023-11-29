@@ -1,15 +1,15 @@
 ---
-title: 谈谈| 《隐入尘烟》观后感
+title: 关于| LaTeX 初级入门（一）
 date: 2022-8-26
 categories:
-  - 随笔感想
+  - 知识科普
 tags:
-  - 电影
-  - 观后感
-publish: false
+  - 文字排版
 ---
 
+:::tip
 
+:::
 
 ## 一、 简介
 

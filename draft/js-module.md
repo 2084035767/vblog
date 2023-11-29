@@ -1,12 +1,17 @@
 ---
-title: 胡说 JS 模块化 
+title: 胡说| JS 模块化
 date: 2023-10-11
 categories:
   - 编程知识
 tags:
   - JS
-publish: false
 ---
+
+:::tip
+
+:::
+
+## JS 模块化简介
 
 引入问题：为什么要进行模块化？
 JS模块化大致发展过程

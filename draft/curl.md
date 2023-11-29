@@ -1,11 +1,19 @@
 ---
-title: 谈谈| 《隐入尘烟》观后感
+title: 胡说| CURL 命令
 date: 2022-8-26
 categories:
-  - 随笔感想
+  - 编程知识
 tags:
-  - 电影
-  - 观后感
-publish: false
+  - 命令行
 ---
+
+:::tip
+
+:::
+
+## CURL 简介
+
+## CURL 命令参数
+
+
 

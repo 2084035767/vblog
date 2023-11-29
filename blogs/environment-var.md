@@ -1,6 +1,6 @@
 ---
 title: 胡说| Window 环境变量
-date: 2023-7-12
+date: 2023-4-12
 categories:
   - 编程知识
 tags:

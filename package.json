@@ -10,12 +10,6 @@
   },
   "devDependencies": {
     "vuepress": "2.0.0-beta.67",
-    "vuepress-plugin-mermaidjs": "^2.0.0-beta.2",
     "vuepress-theme-reco": "2.0.0-beta.68"
-  },
-  "dependencies": {
-    "@renovamen/vuepress-plugin-mermaid": "2.0.0-alpha.26",
-    "mermaid": "^9.4.3",
-    "vuepress-plugin-mermaid-next": "^0.1.16"
   }
 }

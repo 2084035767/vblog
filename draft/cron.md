@@ -1,12 +1,10 @@
 ---
-title: 谈谈| 《隐入尘烟》观后感
+title: 胡说| CRON 表达式
 date: 2022-8-26
 categories:
-  - 随笔感想
+  - 编程知识
 tags:
-  - 电影
-  - 观后感
-publish: false
+  - 时间表达
 ---
 
 ## 什么是 Cron 表达式？

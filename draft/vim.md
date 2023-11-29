@@ -1,17 +1,17 @@
 ---
-title: 谈谈| 《隐入尘烟》观后感
+title: 胡说| VIM 初级使用
 date: 2022-8-26
 categories:
-  - 随笔感想
+  - 编程知识
 tags:
-  - 电影
-  - 观后感
-publish: false
+  - Linux
 ---
 
+:::tip
 
+:::
 
-vi简介
+## vim简介
 
 vi简介
 文本编辑器

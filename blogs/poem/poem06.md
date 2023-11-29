@@ -8,8 +8,6 @@ tags:
 publish: false
 ---
 
-<link rel="stylesheet" href="//unpkg.com/heti/umd/heti.min.css"/>
-
 ::: tip 前言
 
  博主始终认为本人所作诗词均为消遣的产物，无实际意义。请大家当作笑话来看😶。

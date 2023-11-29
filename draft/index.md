@@ -1,15 +1,17 @@
 ---
-title: 谈谈| MySql 索引
+title: 胡说| MySql 索引
 date: 2022-8-26
 categories:
-  - 随笔感想
+  - 编程知识
 tags:
-  - 电影
-  - 观后感
-publish: false
+  - MySql
 ---
 
+:::tip
 
+:::
+
+## MySql 索引简介
 
 1. 全文索引（Full-Text Index）：
 

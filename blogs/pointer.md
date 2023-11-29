@@ -1,5 +1,5 @@
 ---
-title: 胡说| C 语言的指针
+title: 胡说| C 语言指针
 date: 2023-10-30
 categories:
   - 编程知识

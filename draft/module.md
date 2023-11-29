@@ -1,12 +1,10 @@
 ---
-title: 胡说| 包管理机制
+title: 胡说| 包管理机制（命名空间）
 date: 2022-8-26
 categories:
-  - 随笔感想
+  - 编程知识
 tags:
-  - 电影
-  - 观后感
-publish: false
+  - 包管理
 
 ---
 

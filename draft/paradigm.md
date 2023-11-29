@@ -1,12 +1,10 @@
 ---
-title: 谈谈| ProgrammingParadigm
+title: 胡说| 编程范式
 date: 2022-8-26
 categories:
   - 编程知识
 tags:
-  - 电影
-  - 观后感
-publish: false
+  - 范式
 ---
 
 

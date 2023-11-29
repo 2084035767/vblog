@@ -1,11 +1,10 @@
 ---
-title: 关于 GitHub Actions
+title: 关于| GitHub Actions
 date: 2023-10-11
 categories:
   - 知识科普
 tags:
   - GitHub
-publish: false
 ---
 
 ## GitHub Actions 组件

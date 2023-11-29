@@ -6,8 +6,13 @@ categories:
 tags:
   - npm
   - 版本
-publish: false
 ---
+
+:::tip
+
+:::
+
+
 
 版本格式：主版本号.次版本号.修订号，版本号递增规则如下：
 
