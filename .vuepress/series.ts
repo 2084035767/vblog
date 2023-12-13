@@ -10,9 +10,9 @@ export default {
     {
       text: '后端',
       children: [
-        { text: 'C', link: '/docs/c.md' },
-        { text: 'Python', link: '/docs/python.md' },
         { text: '数据库', link: '/docs/db.md' },
+        { text: 'Python', link: '/docs/python.md' },
+        { text: '计算机基础', link: '/docs/cs.md' },
       ],
     },
   ],

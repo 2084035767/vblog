@@ -652,3 +652,11 @@ POST方式： 将表单数据直接发送(隐藏)到指定的处理程序。可�
 <input type="radio" name="sex" id="nan" /> <label for="nan">男</label>
 <input type="radio" name="sex" id="nv"  /> <label for="nv">女</label>
 ```
+
+
+
+
+
+**下面的区域以后再来“探索”吧**
+
+----
